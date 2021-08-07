@@ -2,6 +2,6 @@ version: '3.4'
 
 services:
   subject-api:
-    image: ghcr.io/bazsup/subject-api:latest
+    image: ghcr.io/pungpeee/subject-api:latest
     ports:
       - 80:9090
